@@ -1,0 +1,2 @@
+python-dotenv>=0.19.2
+spotipy>=2.19.0
